@@ -1,1 +1,1 @@
-# Alumni-Engagement-Platform
+# Alumni Engagement Platform
